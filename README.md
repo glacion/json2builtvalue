@@ -15,4 +15,4 @@ echo '{
 }' | dart bin/main.dart -n todo
 ```
 
-Based upon [json2builtvalue](https://github.com/glacion/json2builtvalue) which is based on [json2builtvalue](https://github.com/charafau/json2builtvalue)
+Based on [json2builtvalue](https://github.com/charafau/json2builtvalue)
